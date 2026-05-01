@@ -67,4 +67,11 @@ Telecom_session_lens/
 ├── docker/                # Docker configuration for Superset
 ├── Telecom_EDA.ipynb      # Exploratory Data Analysis notebook
 └── README.md
+
+
+
+
 ```
+
+## contributors
+omar tarek , ziad abdallah , mohamed ahmed 
